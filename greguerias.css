@@ -1,0 +1,43 @@
+.fondo {
+    background-color: hsl(145, 50%, 35%);
+    font-family: sans-serif;
+}
+
+
+h1 {
+    font-size: 400%;
+    font-style: oblique;
+    color: rgb(116, 23, 111);
+    text-transform: capitalize;
+}
+
+p {
+    font-size: 150%;
+}
+
+p.niño {
+    color: rgb(221, 215, 215);
+    font-family: serif;
+    font-style: oblique;
+}
+
+p.chicharras {
+    color: hsl(34, 81%, 89%);
+    font-family: sans-serif;
+}
+
+p.golondrinas{
+    color: lightgoldenrodyellow;
+    font-family: sans-serif; 
+}
+
+p.libros {
+    color : rgb(221, 157, 37) ;
+    font-family: monospace;
+    font-size: 200%;
+}
+
+p.numeros {
+   font-family: cursive;
+   color: red;
+}
